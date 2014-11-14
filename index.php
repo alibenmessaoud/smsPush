@@ -17,7 +17,7 @@
 <body>
 	<div class="container">
 <div class="row">
-    
+
 <div class="col-sm-8 contact-form">
 <h1>Send me a text message!</h1>
 <?php
