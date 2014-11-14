@@ -12,7 +12,7 @@
     </style>
     <script src="a_files/jquery-1.js"></script>
     <script src="a_files/bootstrap.js"></script>
-     
+
 </head>
 <body>
 	<div class="container">
